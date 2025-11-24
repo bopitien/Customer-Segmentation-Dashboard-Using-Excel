@@ -118,7 +118,7 @@ Total Customers: **500**
 
 **Brume Pascal Opitien**  
 Data Analyst  
-📧 brumepascal@gmail.com  
+
 
 🔗 **GitHub:** https://github.com/bopitien  
 🔗 **LinkedIn:** https://www.linkedin.com/in/pascalbrume  
@@ -127,5 +127,6 @@ Data Analyst
 ##credit
 
 Freedom Oboh
+Data Visualization expert
 www.youtube.com/@ObohYT
 

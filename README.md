@@ -1,4 +1,4 @@
-# 📊 Customer Segmentation Dashboard Using Excel
+# Customer Segmentation Dashboard Using Excel
 
 This project demonstrates how Microsoft Excel can be used to segment customers and extract meaningful insights using demographic, income and tenure-based groupings. The dashboard allows stakeholders to understand who their customers are, how long they have stayed with the company and their spending potential. The goal is to support more personalized engagement and improve strategic decision making.
 
@@ -68,7 +68,7 @@ Total Customers: **500**
 
 ## 📊 Dashboard Overview
 
-<img src="dashboard_image_placeholder.png" alt="Excel Dashboard Screenshot" width="900"/>
+<img src="Dashboad_Customer_Segments.png" alt="Excel Dashboard Screenshot" width="900"/>
 
 ### Key Metrics
 
